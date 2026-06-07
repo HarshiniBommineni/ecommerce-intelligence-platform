@@ -118,11 +118,11 @@ ecommerce-intelligence-platform/
 ## 👩‍💻 About the Developer
 
 **Harshini Bommineni**
-MS Computer Science — Data Science Specialization
+MS in Computer Science | Data Science Specialization
 University of Missouri-Kansas City (UMKC)
 
 - 🔗 [Live App](https://harshini-ecommerce.streamlit.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshini-bommineni)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshini-bommineni-616546248/)
 - 🐙 [GitHub](https://github.com/HarshiniBommineni)
 
 ---
